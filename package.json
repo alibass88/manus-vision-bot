@@ -1,0 +1,15 @@
+{
+  "name": "manus-vision-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "vision_bot.js",
+  "scripts": {
+    "start": "node vision_bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.37.1",
+    "prismarine-viewer": "^1.33.0",
+    "puppeteer": "^25.8.0",
+    "express": "^5.2.1"
+  }
+}
